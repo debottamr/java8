@@ -12,7 +12,7 @@ public class SequencePrint {
 //		Mythread1 t3 = new Mythread1(2, counter,obj);
 //		new Thread(t1).start();
 //		
-//		new Thread(t2).start();
+//		new Thread(t2).start(); 
 //		new Thread(t3).start();
 		
 		
